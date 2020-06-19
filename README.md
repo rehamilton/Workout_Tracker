@@ -67,13 +67,13 @@ so that I can have a full picture for y exercise routines.
 
 ## Screenshots
 
-![./markdownAssets/Tracker.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Tracker.png)
+![./markdownAssets/Tracker.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Tracker.PNG)
 
-![./markdownAssets/Cardio.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Cardio.png)
+![./markdownAssets/Cardio.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Cardio.PNG)
 
-![./markdownAssets/Resistance.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Resistance.png)
+![./markdownAssets/Resistance.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Resistance.PNG)
 
-![./markdownAssets/Dashboard.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Dashboard.png)
+![./markdownAssets/Dashboard.png](https://github.com/rehamilton/Workout_Tracker/blob/master/markdownAssets/Dashboard.PNG)
 
 ## Questions
 
